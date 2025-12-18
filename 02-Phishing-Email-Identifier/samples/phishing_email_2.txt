@@ -1,0 +1,13 @@
+From: Microsoft Support <support@m1crosoft-security.com>
+To: user@gmail.com
+Subject: Action Required: Password Expiry Notice
+
+Your Microsoft email password will expire today.
+
+To avoid losing access, please update your password immediately.
+
+Update Password:
+https://login-microsoft.verify-account.net
+
+Regards,
+Microsoft Security Team

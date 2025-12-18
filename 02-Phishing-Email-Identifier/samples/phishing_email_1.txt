@@ -1,0 +1,18 @@
+From: SBI Secure <sbi.alerts@sb1-secure-login.com>
+To: customer@gmail.com
+Subject: ⚠️ Urgent – Verify Your SBI Account Now
+
+Dear Customer,
+
+We detected unusual activity in your SBI account.
+For your security, your account has been temporarily limited.
+
+Please verify your account immediately to restore full access.
+
+Verify Now:
+http://sbi-secure-login.verify-user.ru
+
+Failure to verify within 24 hours will result in permanent suspension.
+
+Thank you,
+SBI Security Team

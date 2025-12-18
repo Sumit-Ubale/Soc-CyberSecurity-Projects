@@ -1,0 +1,12 @@
+From: Microsoft Account <account-security-noreply@microsoft.com>
+To: user@gmail.com
+Subject: New Sign-in Activity
+
+We noticed a new sign-in to your Microsoft account.
+
+If this was you, no action is needed.
+If not, please visit your account security page
+by typing microsoft.com/security directly into your browser.
+
+Thanks,
+Microsoft Account Team

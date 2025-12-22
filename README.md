@@ -31,25 +31,22 @@ Through this portfolio, I demonstrate my understanding of security fundamentals,
 3. **SIEM Log Investigation**  
    Investigation of sample security logs using SIEM tools to identify suspicious activity and document findings from a SOC analyst perspective.
 
-4. **pfSense Firewall Rules**  
-   Configuration and documentation of basic firewall rules in a home lab environment, with explanations of their security purpose.
-
-5. **OpenVAS Vulnerability Scan**  
+4. **OpenVAS Vulnerability Scan**  
    A vulnerability scanning walkthrough with detailed analysis of one identified vulnerability and its potential impact.
 
-6. **Brute Force Detection Script**  
+5. **Brute Force Detection Script**  
    A detection-focused script that flags repeated failed login attempts to identify potential brute-force attacks.
 
-7. **Windows Event Viewer Investigation**  
+6. **Windows Event Viewer Investigation**  
    Analysis of a specific Windows Event ID to understand its relevance in security monitoring and incident detection.
 
-8. **Secure My Laptop**  
+7. **Secure My Laptop**  
    Hardening my personal system by enabling essential security controls and documenting the applied defensive measures.
 
-9. **Basic Threat Report**  
+8. **Basic Threat Report**  
    Research and simplified explanation of one malware or cyber attack, focusing on impact, behavior, and defensive understanding.
 
-10. **Cybersecurity Portfolio Documentation**  
+9. **Cybersecurity Portfolio Documentation**  
     Screenshots, summaries, and explanations that present my cybersecurity learning journey in a clear and professional manner.
 
 ---
@@ -73,3 +70,4 @@ Currently learning SOC operations with a strong interest in Blue Team security, 
 
 - **TryHackMe:** https://tryhackme.com/p/0xShad0wReign  
 - **LinkedIn:** https://linkedin.com/in/sumit-ubale-568290320
+
